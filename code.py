@@ -16,6 +16,7 @@ def save_database(data):
     with open(database, "w") as file:
         json.dump(data, file, indent=4)
 
+
 def show_menu():
     print("\n📦 Welcome to the Expiry Date Tracker System")
     print("MENU")
