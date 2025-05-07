@@ -25,6 +25,7 @@ def show_menu():
     print("3. View all items")
     print("4. Exit")
 
+
 def add_item(data):
     item_name = input("Enter item name: ")
     expiry_str = input("Enter expiry date (YYYY-MM-DD): ")
