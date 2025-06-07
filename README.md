@@ -63,4 +63,3 @@ Batch import/export feature for large inventories
 Expired items cleanup option
 
 
-# expiry-date-checker-
