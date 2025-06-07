@@ -43,17 +43,17 @@ MENU
    ____
 🧾 Example
 Adding an Item:
-pgsql
-Copy
-Edit
-Enter item name: Milk
-Enter expiry date (YYYY-MM-DD): 2025-06-10
-✅ 'Milk' added with expiry date 2025-06-10
-Viewing Near-Expiry Items:
+
+<P>Enter item name: Milk
+<P>Enter expiry date (YYYY-MM-DD): 2025-06-10
+<P>✅ 'Milk' added with expiry date 2025-06-10
+<P>Viewing Near-Expiry Items:
  ___
-⚠ Items nearing expiry (within 7 days):
-- Milk (Expires: 2025-06-10)
-💡 Future Improvements (Suggestions)
+<P>⚠ Items nearing expiry (within 7 days):
+<P>- Milk (Expires: 2025-06-10)
+___
+  
+### 💡 Future Improvements (Suggestions)
 GUI interface using Tkinter or PyQt
 
 Notification support (email or local alert)
