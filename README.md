@@ -12,7 +12,7 @@ ___
 📋 View a list of all items
 
 💾 Data persistence using a JSON file (expiry_database.json)
-
+   
 ### 🛠️ Requirements
 Python 3.x
 
