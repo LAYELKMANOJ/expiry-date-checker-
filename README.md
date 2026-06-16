@@ -4,7 +4,7 @@
  A simple Python-based command-line tool to help users keep track of items and their expiry dates. This system allows users to add items with expiry dates, view all stored items, and get alerts for items that are expiring within 7 days.
 ___
 ### 🚀 Features
-___
+___ 
 ✅ Add items with expiry dates
 
 🔔 Get notified about items expiring within the next 7 days
